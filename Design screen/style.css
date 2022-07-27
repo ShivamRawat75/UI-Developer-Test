@@ -1,0 +1,44 @@
+#free{
+
+    background-color:#2DD35C;
+    color: white;
+    
+}
+#div1{
+    border: 2px solid ;
+    width: 30%;
+    margin: 10px;
+    padding: 10px;
+    border-top-right-radius: 80px;
+    border-bottom-right-radius: 10px;
+    border-color: #2DD35C;
+    position: relative;
+}
+button{
+    margin-top: 5px;
+    border-radius: 10px ;
+    border-color: #2DD35C;
+}
+h2{
+    margin: 5px;
+}
+#store{
+    color: #5553B7 ;
+}
+#book{
+    color:   #5553B7;
+    border-color:  #9593f5;
+}
+#div2{
+    position: absolute;
+    border: 2px solid;
+    height: 75px;
+    width: 20%;
+    border-top-left-radius: 70px;
+    border-color: #c1c1f3;
+    background-color:#c1c1f3;
+    margin-left: 300px;
+    margin-top: 30px;
+    border-bottom-left-radius: 10px;
+    
+}
